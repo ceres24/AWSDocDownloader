@@ -4,7 +4,7 @@ AWSDocDownloader
 This simple bash script will download all available documentations on Amazon Web Services Program in PDF Format.
 
 == For Linux ===
-Run this with " ./ " command using Terminal
+Run this with " ./RUN.sh " command using Terminal
 
 == For Windows ===
 Install first GNU 32 using this link: http://getgnuwin32.sourceforge.net/
